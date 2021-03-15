@@ -1,0 +1,26 @@
+{
+  "name": "audio-streaming-example-skill",
+  "version": "2.0.0",
+  "description": "A starter template for an Alexa audio streaming skill.",
+  "main": "index.js",
+  "keywords": [
+    "alexa",
+    "skill",
+    "audio streaming"
+  ],
+  "author": "skilltemplates.com",
+  "license": "See license in ../LICENSE.txt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skilltemplates/audio-stream-starter-alexa.git"
+  },
+  "dependencies": {
+    "ask-sdk-core": "^2.0.0",
+    "ask-sdk-model": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.3.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2"
+  }
+}
