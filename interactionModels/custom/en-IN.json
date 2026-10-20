@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "kochi radio",
+      "invocationName": "vividh bharati",
       "intents": [
         {
           "name": "AMAZON.NavigateHomeIntent",

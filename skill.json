@@ -3,11 +3,11 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Stream for AIR Kochi in Kochi, India",
+          "summary": "Stream for Vividh Bharati, India",
           "examplePhrases": [
-            "Alexa, open Kochi radio",
-            "Alexa, play Kochi radio",
-            "Alexa, start Kochi radio"
+            "Alexa, open Vividh Bharati",
+            "Alexa, play Vividh Bharati",
+            "Alexa, start Vividh Bharati"
           ],
           "keywords": [
             "audio",
@@ -17,16 +17,16 @@
             "music",
             "AIR",
             "Akashwani",
-            "Kochi",
-            "Cochin"
+            "Vividh Bharati",
+            "Malayalam"
           ],
-          "name": "AIR Kochi",
-          "description": "Stream for AIR Kochi in Kochi, India",
+          "name": "Vividh Bharati",
+          "description": "Stream for Vividh Bharati, India",
           "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
           "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
         },
         "en-IN": {
-          "name": "AIR Kochi"
+          "name": "Vividh Bharati"
         }
       },
       "isAvailableWorldwide": true,

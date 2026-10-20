@@ -14,10 +14,10 @@ const Alexa = require('ask-sdk-core');
 const STREAMS = [
   {
     token: '1',
-    url: 'https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/playlist.m3u8',
+    url: 'https://radio.wavespb.com/live/ad3a8436a329e2d6/ad3a8436a329e2d6.m3u8',
     metadata: {
-      title: 'Kochi radio',
-      subtitle: 'Stream for AIR Kochi',
+      title: 'Vividh Bharati',
+      subtitle: 'Stream for Vividh Bharati',
       art: {
         sources: [
           {
